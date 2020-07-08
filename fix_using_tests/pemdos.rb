@@ -8,7 +8,7 @@ def snake_it_up(string)
   if string[0] == "s"
    # binding.pry
     "s" * 10 + string
-    # WRONG NUMBER OF ARGUMENTS (given 1, expected 0)
+  
   else
     string
   
